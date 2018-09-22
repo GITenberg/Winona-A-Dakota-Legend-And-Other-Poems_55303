@@ -1,11 +1,16 @@
 _repo: Winona-A-Dakota-Legend-And-Other-Poems_55303
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55303-h/images/cover.jpg
 creator:
   author:
     agent_name: Huggins, Eli L.
     gutenberg_agent_id: '48275'
     url: http://www.gutenberg.org/2009/agents/48275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55303#Winona-A-Dakota-Legend-And-Other-Poems
 gutenberg_issued: '2017-08-09'
 gutenberg_type: Text
 identifiers:
